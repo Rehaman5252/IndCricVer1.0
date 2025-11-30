@@ -13,7 +13,7 @@ export default function Policies() {
       <div className="bg-muted/50 p-6 rounded-lg border">
         <h2 className="text-xl font-bold mb-4">Halekard Private Limited</h2>
         <div className="space-y-2 text-sm">
-          <p><strong>Registered Office:</strong> 15-1-47/2, Panasathota, Narasaraopet, Paanadu, Guntur, Andhra Pradesh – 522601</p>
+          <p><strong>Registered Office:</strong> 15-1-47/2, Panasathota, Narasaraopet, Palnadu, Guntur, Andhra Pradesh – 522601</p>
           <p><strong>CIN:</strong> U86900AP2024PTC114185</p>
           <p><strong>GSTIN:</strong> 37AAHCH2546N1Z5</p>
           <p><strong>Website:</strong> www.indcric.com</p>
